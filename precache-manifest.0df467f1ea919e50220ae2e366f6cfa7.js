@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "52108600e8140aef568f",
+    "revision": "8edddc21057522bd14d1",
     "url": "/snapmode-demo/static/css/main.26e780ed.chunk.css"
   },
   {
-    "revision": "52108600e8140aef568f",
-    "url": "/snapmode-demo/static/js/main.52108600.chunk.js"
+    "revision": "8edddc21057522bd14d1",
+    "url": "/snapmode-demo/static/js/main.8edddc21.chunk.js"
   },
   {
     "revision": "62356ddb4c52474ab5bb",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/snapmode-demo/static/js/runtime~main.714bed75.js"
   },
   {
-    "revision": "779f41457cb80c83c33fb0bf6225085c",
+    "revision": "8f80a27da83209709b3d2dd6278cf8e3",
     "url": "/snapmode-demo/index.html"
   }
 ];
