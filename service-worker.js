@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/snapmode-demo/precache-manifest.70d0d01687d70f3eb1b95924d654af25.js"
+  "/snapmode-demo/precache-manifest.975e1005e08fbd5208f3948bafe926c2.js"
 );
 
 workbox.clientsClaim();
