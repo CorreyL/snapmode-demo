@@ -1,13 +1,13 @@
 {
   "main.css": "/snapmode-demo/static/css/main.6fbb8fc8.chunk.css",
-  "main.js": "/snapmode-demo/static/js/main.955e5345.chunk.js",
-  "main.js.map": "/snapmode-demo/static/js/main.955e5345.chunk.js.map",
+  "main.js": "/snapmode-demo/static/js/main.b3338aed.chunk.js",
+  "main.js.map": "/snapmode-demo/static/js/main.b3338aed.chunk.js.map",
   "static/js/1.78d43f1a.chunk.js": "/snapmode-demo/static/js/1.78d43f1a.chunk.js",
   "static/js/1.78d43f1a.chunk.js.map": "/snapmode-demo/static/js/1.78d43f1a.chunk.js.map",
   "runtime~main.js": "/snapmode-demo/static/js/runtime~main.714bed75.js",
   "runtime~main.js.map": "/snapmode-demo/static/js/runtime~main.714bed75.js.map",
   "static/css/main.6fbb8fc8.chunk.css.map": "/snapmode-demo/static/css/main.6fbb8fc8.chunk.css.map",
   "index.html": "/snapmode-demo/index.html",
-  "precache-manifest.bbe4b70c786815d5be1d18ec3d350679.js": "/snapmode-demo/precache-manifest.bbe4b70c786815d5be1d18ec3d350679.js",
+  "precache-manifest.70d0d01687d70f3eb1b95924d654af25.js": "/snapmode-demo/precache-manifest.70d0d01687d70f3eb1b95924d654af25.js",
   "service-worker.js": "/snapmode-demo/service-worker.js"
 }
