@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "Scale"
     },
+    "snapModeOptions": {
+      "DEFAULT": "Point",
+      "POINT_ON_LINE": "Point On Line",
+      "LINE_MID_POINT": "Line Midpoint",
+      "LINE_INTERSECTION": "Line Intersection",
+      "PATH_ENDPOINT": "Path Endpoint"
+    },
     "styleOption": {
       "style": "Style",
       "solid": "Solid",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "Page",
       "precision": "Precision",
-      "enableSnapping": "Enable snapping for measurement tools"
+      "enableSnapping": "Enable Snap To"
     },
     "watermark": {
       "size": "Size",

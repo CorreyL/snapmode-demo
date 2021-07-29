@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "배율"
     },
+    "snapModeOptions": {
+      "DEFAULT": "가리키다",
+      "POINT_ON_LINE": "포인트 온 라인",
+      "LINE_MID_POINT": "선 중간점",
+      "LINE_INTERSECTION": "선 교차점",
+      "PATH_ENDPOINT": "경로 끝점"
+    },
     "styleOption": {
       "style": "스타일",
       "solid": "고체",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "페이지",
       "precision": "정밀도",
-      "enableSnapping": "측정 도구에 스냅 가능"
+      "enableSnapping": "스냅 대상 활성화"
     },
     "watermark": {
       "size": "크기",

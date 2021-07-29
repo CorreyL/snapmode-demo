@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "Schaal"
     },
+    "snapModeOptions": {
+      "DEFAULT": "Punt",
+      "POINT_ON_LINE": "Punt op lijn",
+      "LINE_MID_POINT": "Middelpunt lijn",
+      "LINE_INTERSECTION": "Lijn snijpunt",
+      "PATH_ENDPOINT": "Pad eindpunt"
+    },
     "styleOption": {
       "style": "Stijl",
       "solid": "Solide",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "Pagina",
       "precision": "precisie",
-      "enableSnapping": "Schakel snappen in voor meetinstrumenten"
+      "enableSnapping": "Snap To inschakelen"
     },
     "watermark": {
       "size": "Grootte",

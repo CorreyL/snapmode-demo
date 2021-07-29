@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "比例"
     },
+    "snapModeOptions": {
+      "DEFAULT": "观点",
+      "POINT_ON_LINE": "在线点",
+      "LINE_MID_POINT": "线中点",
+      "LINE_INTERSECTION": "线交点",
+      "PATH_ENDPOINT": "路径端点"
+    },
     "styleOption": {
       "style": "样式",
       "solid": "固体",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "页",
       "precision": "精准度",
-      "enableSnapping": "启用测量工具的捕捉"
+      "enableSnapping": "启用对齐"
     },
     "watermark": {
       "size": "尺寸",

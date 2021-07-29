@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "縮尺"
     },
+    "snapModeOptions": {
+      "DEFAULT": "点",
+      "POINT_ON_LINE": "オンラインポイント",
+      "LINE_MID_POINT": "線の中点",
+      "LINE_INTERSECTION": "線線交叉",
+      "PATH_ENDPOINT": "パスエンドポイント"
+    },
     "styleOption": {
       "style": "スタイル",
       "solid": "直線",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "ページ",
       "precision": "精度",
-      "enableSnapping": "測定ツールのスナップを有効にする"
+      "enableSnapping": "スナップ先を有効にする"
     },
     "watermark": {
       "size": "サイズ",

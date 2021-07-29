@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "Maßstab"
     },
+    "snapModeOptions": {
+      "DEFAULT": "Punkt",
+      "POINT_ON_LINE": "Punkt auf Linie",
+      "LINE_MID_POINT": "Linienmittelpunkt",
+      "LINE_INTERSECTION": "Linienkreuzung",
+      "PATH_ENDPOINT": "Pfad-Endpunkt"
+    },
     "styleOption": {
       "style": "Stil",
       "solid": "Regulär",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "Seite",
       "precision": "Genauigkeit",
-      "enableSnapping": "Aktivieren Sie das Einrasten für Messwerkzeuge"
+      "enableSnapping": "Ausrichten an . aktivieren"
     },
     "watermark": {
       "size": "Größe",

@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "Масштаб"
     },
+    "snapModeOptions": {
+      "DEFAULT": "Точка",
+      "POINT_ON_LINE": "Точка на линии",
+      "LINE_MID_POINT": "Средняя точка линии",
+      "LINE_INTERSECTION": "Пересечение линий",
+      "PATH_ENDPOINT": "Конечная точка пути"
+    },
     "styleOption": {
       "style": "Стиль",
       "solid": "твердый",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "Страница",
       "precision": "Точность",
-      "enableSnapping": "Включить привязку для измерительных инструментов"
+      "enableSnapping": "Включить привязку к"
     },
     "watermark": {
       "size": "Размер",

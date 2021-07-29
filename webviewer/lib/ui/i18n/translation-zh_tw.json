@@ -313,6 +313,13 @@
     "measurementOption": {
       "scale": "比例"
     },
+    "snapModeOptions": {
+      "DEFAULT": "觀點",
+      "POINT_ON_LINE": "在線點",
+      "LINE_MID_POINT": "線中點",
+      "LINE_INTERSECTION": "線交點",
+      "PATH_ENDPOINT": "路徑端點"
+    },
     "styleOption": {
       "style": "樣式",
       "solid": "固體",
@@ -326,7 +333,7 @@
     "shared": {
       "page": "頁面",
       "precision": "精確度",
-      "enableSnapping": "啟用測量工具的捕捉"
+      "enableSnapping": "啟用對齊"
     },
     "watermark": {
       "size": "尺寸",
